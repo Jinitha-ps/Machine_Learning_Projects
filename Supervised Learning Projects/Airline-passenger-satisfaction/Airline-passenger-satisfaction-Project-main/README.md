@@ -20,6 +20,7 @@ This project focuses on a machine learning classification task to analyze and pr
 * Neutral or Dissatisfied
 
 **Key Features Analyzed**
+
 The analysis incorporates numerous factors rated on a scale of 0 (Not Rated) to 5 (Highly Satisfied), in addition to demographic and flight details:
 
 
