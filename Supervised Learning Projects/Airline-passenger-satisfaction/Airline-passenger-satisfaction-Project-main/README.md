@@ -27,7 +27,8 @@ The analysis incorporates numerous factors rated on a scale of 0 (Not Rated) to 
 
 
 
-Category,Key Features
+**Category,Key Features**
+
 Service Ratings,"Inflight wifi service, Online boarding, Seat comfort, Inflight entertainment, On-board service, Cleanliness"
 Experience,"Ease of Online booking, Gate location, Baggage handling, Checkin service, Departure/Arrival time convenient"
 Flight Details,"Flight Distance, Departure Delay in Minutes, Arrival Delay in Minutes"
@@ -35,6 +36,7 @@ Demographics,"Gender, Age, Customer Type, Type of Travel (Personal/Business), Cl
 
 
 **Results (Logistic Regression Model)**
+
 The project utilized a Logistic Regression model for the classification task.
 
 
