@@ -1,35 +1,25 @@
 # Airline Passenger Satisfaction Analysis
 This project focuses on a machine learning classification task to analyze and predict customer satisfaction levels within the airline industry. The primary goal is to identify the key factors that drive customer satisfaction with airline services and suggest ways for the industry to enhance its service quality.
 
-
-
-
-
 **Key Objectives**
 
-Determine the overall level of passenger satisfaction.
-
-
-
-Identify which services have a positive or negative influence on the quality of the airline's service.
-
-
-
-Develop a classification model to predict passenger satisfaction.
+* Determine the overall level of passenger satisfaction.
+* Identify which services have a positive or negative influence on the quality of the airline's service.
+* Develop a classification model to predict passenger satisfaction.
 
 **Dataset Overview**
-The project utilizes a comprehensive dataset derived from an airline passenger satisfaction survey. The dataset contains 103,904 entries and 25 features covering various aspects of the passenger journey and demographics.
+* The project utilizes a comprehensive dataset derived from an airline passenger satisfaction survey. The dataset contains 103,904 entries and 25 features covering various aspects of the passenger journey and demographics.
 
 
 
 **Prediction Task (Classification)**
-The core machine learning problem is to predict the target variable, satisfaction, which is categorized into two classes:
+* The core machine learning problem is to predict the target variable, satisfaction, which is categorized into two classes:
 
-Satisfied
+* Satisfied
 
-Neutral or Dissatisfied
+* Neutral or Dissatisfied
 
-Key Features Analyzed
+**Key Features Analyzed**
 The analysis incorporates numerous factors rated on a scale of 0 (Not Rated) to 5 (Highly Satisfied), in addition to demographic and flight details:
 
 
