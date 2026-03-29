@@ -183,7 +183,6 @@ Customer-Churn-Prediction/
 ├── Customer_Churn_Prediction.ipynb
 ├── dataset.csv
 ├── README.md
-└── model_results.csv
 ```
 
 ## 👩‍💻 Author
