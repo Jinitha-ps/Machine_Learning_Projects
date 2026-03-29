@@ -11,8 +11,11 @@ The goal of this project is to help businesses identify high-risk customers earl
 ## 🎯 Objective
 
 ✔ Predict customer churn using machine learning models
+
 ✔ Compare multiple algorithms to select the best-performing model
+
 ✔ Provide actionable business insights to reduce customer churn
+
 ✔ Demonstrate an end-to-end data analysis and machine learning workflow
 
 ---
@@ -22,11 +25,17 @@ The goal of this project is to help businesses identify high-risk customers earl
 The dataset contains customer information including:
 
 📌 Customer demographics
+
 📌 Account information
+
 📌 Service usage details
+
 📌 Payment methods
+
 📌 Contract type
+
 📌 Monthly and total charges
+
 🎯 Target variable: **Churn (Yes / No)**
 
 ---
@@ -36,6 +45,7 @@ The dataset contains customer information including:
 ### 🔹 1. Data Collection
 
 * Loaded dataset using **Pandas**
+* 
 * Inspected data structure and data types
 
 ### 🔹 2. Data Preprocessing
