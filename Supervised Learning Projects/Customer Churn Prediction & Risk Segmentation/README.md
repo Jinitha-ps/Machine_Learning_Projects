@@ -45,14 +45,17 @@ The dataset contains customer information including:
 ### 🔹 1. Data Collection
 
 * Loaded dataset using **Pandas**
-* 
+  
 * Inspected data structure and data types
 
 ### 🔹 2. Data Preprocessing
 
 ✔ Handled missing values
+
 ✔ Encoded categorical variables
+
 ✔ Scaled numerical features using **StandardScaler**
+
 ✔ Split dataset into training and testing sets
 
 ---
@@ -60,13 +63,17 @@ The dataset contains customer information including:
 ### 🔹 3. Exploratory Data Analysis (EDA)
 
 📊 Analyzed customer behavior patterns
+
 📈 Visualized churn distribution
+
 🔍 Identified key factors affecting churn
 
 #### 🔎 Key Insights
 
 * Customers with shorter tenure are more likely to churn
+  
 * Higher monthly charges increase churn probability
+  
 * Contract type significantly impacts churn behavior
 
 ---
@@ -76,10 +83,15 @@ The dataset contains customer information including:
 The following machine learning models were trained and evaluated:
 
 🤖 Logistic Regression
+
 🌳 Decision Tree
+
 🌲 Random Forest
+
 📍 K-Nearest Neighbors (KNN)
+
 📐 Support Vector Machine (SVM)
+
 ⚡ XGBoost
 
 ---
@@ -89,9 +101,13 @@ The following machine learning models were trained and evaluated:
 Models were evaluated using:
 
 📌 Accuracy
+
 📌 Precision
+
 📌 Recall
+
 📌 F1 Score
+
 📌 ROC-AUC Score
 
 ---
@@ -116,7 +132,9 @@ Models were evaluated using:
 ### 📌 Best Model Performance
 
 ✔ Accuracy: **80.48%**
+
 ✔ ROC-AUC Score: **0.861**
+
 ✔ Strong generalization and reduced overfitting
 
 ---
@@ -124,9 +142,13 @@ Models were evaluated using:
 ## 💼 Business Recommendations
 
 📌 Identify high-risk customers using the churn prediction model
+
 📌 Provide personalized retention offers and loyalty programs
+
 📌 Improve customer support and service quality
+
 📌 Monitor customers with high monthly charges
+
 📌 Implement proactive engagement strategies
 
 These actions can help reduce customer churn and improve long-term profitability.
@@ -136,12 +158,19 @@ These actions can help reduce customer churn and improve long-term profitability
 ## 🛠️ Technologies Used
 
 🐍 Python
+
 📊 Pandas
+
 🔢 NumPy
+
 📈 Matplotlib
+
 📉 Seaborn
+
 🤖 Scikit-learn
+
 ⚡ XGBoost
+
 📓 Jupyter Notebook
 
 ---
