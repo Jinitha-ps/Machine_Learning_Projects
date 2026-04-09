@@ -13,13 +13,17 @@ The repository showcases end-to-end machine learning workflows, including data p
 Machine-Learning-Projects/
 │
 ├── Supervised-Learning/
-│   ├── Customer-Churn-Prediction
-│   ├── Iris-Flower-CLassification
-│   ├── Sales-Prediction
-    ├── Delinquency-Prediction
-    └── Airline-Passenger-Satisfaction
+│   ├── Customer-Churn-Prediction/
+│   ├── Iris-Flower-Classification/
+│   ├── Sales-Prediction/
+│   ├── Delinquency-Prediction/
+│   └── Airline-Passenger-Satisfaction/
 │
 └── Unsupervised-Learning/
+    ├── Customer-Segmentation/
+    ├── Market-Basket-Analysis/
+    ├── Anomaly-Detection/
+    └── Clustering-Projects/
     
 
 
