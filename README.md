@@ -10,13 +10,20 @@ The repository showcases end-to-end machine learning workflows, including data p
 
 # **📂 Repository Structure**
 
+'''
 Machine-Learning-Projects/
+
 │
 ├── Supervised-Learning/
+
 │   ├── Customer-Churn-Prediction/
+
 │   ├── Iris-Flower-Classification/
+
 │   ├── Sales-Prediction/
+
 │   ├── Delinquency-Prediction/
+
 │   └── Airline-Passenger-Satisfaction/
 │
 └── Unsupervised-Learning/
@@ -24,7 +31,7 @@ Machine-Learning-Projects/
     ├── Market-Basket-Analysis/
     ├── Anomaly-Detection/
     └── Clustering-Projects/
-    
+'''    
 
 
 # **🚀 Key Features**
