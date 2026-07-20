@@ -1,6 +1,6 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
 
-![Customer Segmentation](Customer_Segmentation.jpg)
+![Customer Segmentation](Customer_segmentation_banner.jpeg)
 
 ---
 
