@@ -44,21 +44,7 @@ This project aims to:
 
 # 🛠️ Tech Stack
 
-🐍 Python
-
-🐼 Pandas
-
-🔢 NumPy
-
-📈 Matplotlib
-
-🎨 Seaborn
-
-🤖 Scikit-learn
-
-📓 Jupyter Notebook
-
-💻 VS Code
+🐍 Python,  🐼 Pandas,   🔢 NumPy,  📈 Matplotlib,  🎨 Seaborn,  🤖 Scikit-learn,  📓 Jupyter Notebook,  💻 VS Code
 
 ---
 
